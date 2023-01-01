@@ -16,12 +16,12 @@
     "@types/dom-mediacapture-record": "^1.0.6",
     "@types/webrtc": "0.0.26",
     "prettier": "^2.0.2",
-    "ts-loader": "^7.0.5",
+    "ts-loader": "^9.4.2",
     "tslint": "^6.1.1",
     "tslint-config-prettier": "^1.18.0",
     "typescript": "^3.8.3",
-    "webpack": "^4.43.0",
-    "webpack-cli": "^3.3.11"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "files": [
     "lib/**/*"
